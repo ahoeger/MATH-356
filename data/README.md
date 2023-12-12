@@ -1,1 +1,0 @@
-This file contains a shortened version of the NIST character dataset. Furthermore, this folder contains training and testing data-- stored using numpy arrays where element 0 is the label and element 1 is the image. The traing and testing images are two channel images with a grayscale image and a FFT/IFFT image.
