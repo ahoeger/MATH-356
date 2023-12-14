@@ -10,4 +10,5 @@
 
 <ins>PreprocessingAndTestTrain</ins>: Contains the preprocessing functions (FFT/IFFT, Gaussian Blur, Transposition) and the loop to create the test and train data sets.  
 
+<ins>QuinnPrediction</ins>: Model prediction on Quinn's handwritting.  
 
