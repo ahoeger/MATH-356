@@ -12,3 +12,4 @@
 
 <ins>QuinnPrediction</ins>: Model prediction on Quinn's handwritting.  
 
+<ins>Letters</ins>: Letters extracted from Quinn's handwriting.
